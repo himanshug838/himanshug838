@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ShahnawajHussain&label=Profile%20views&color=0e75b6&style=flat" alt="himanshugaur" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ShahnawajHussain" alt="ShahnawajHussain" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=himanshug838" alt="himanshug838" /></a> </p>
 
 - <!--👨‍💻 All of my projects are available at [https://ShahnawajHussain.vercel.app/](#)>--!>
 
