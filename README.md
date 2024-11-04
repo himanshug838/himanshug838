@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=himanshug838" alt="himanshug838" /></a> </p>
 
-- <!--👨‍💻 All of my projects are available at [https://ShahnawajHussain.vercel.app/](#)>--!>
+- 👨‍💻 All of my projects are available at [https://himanshug838.vercel.app/](#)>
 
 - 💬 Ask me about *react js,node js, mongoDB, expressjs,*
 
